@@ -1,0 +1,9 @@
+{
+    "presets": [ // 每个preset对应多个plugin的集合
+        "@babel/preset-env", // 对es6语法的解析
+        "@babel/preset-react" // 对react语法的解析
+    ],
+    "plugins": [ // 每个plugin对应一个功能
+
+    ]
+}
