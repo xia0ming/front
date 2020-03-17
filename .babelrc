@@ -4,6 +4,6 @@
         "@babel/preset-react" // 对react语法的解析
     ],
     "plugins": [ // 每个plugin对应一个功能
-
+        "@babel/plugin-syntax-dynamic-import" // 动态import
     ]
 }

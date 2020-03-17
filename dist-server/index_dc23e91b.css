@@ -1,0 +1,8 @@
+.color_red {
+  color: red;
+  font-size: 0.2rem;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+}
